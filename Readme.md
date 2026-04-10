@@ -15,8 +15,7 @@ Desenvolvedor backend em evolução, focado na construção de sistemas reais ut
 
 ## Stack principal
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khallarrary)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khallarrary&layout=compact)
 
 ---
 

@@ -23,35 +23,39 @@ Desenvolvedor backend em evolução, focado na construção de sistemas reais ut
 
 ### Hotel Reservation System
 
-Sistema de reservas de hotel com visualização em timeline (estilo PMS), incluindo:
+Sistema completo de reservas de hotel com backend em .NET e frontend em Angular.
 
-* Backend estruturado em camadas (Domain, Application, Infrastructure)
+* Visualização em timeline (estilo PMS)
 * Validação de conflitos de reservas
 * Middleware global para tratamento de exceções
-* Frontend em Angular com renderização dinâmica de períodos ocupados
+* Integração completa entre frontend e backend
 
 ---
 
-### Telemetry API
+### Guest Request System
 
-API em .NET para coleta e simulação de dados de telemetria automotiva, com foco em evolução para cenários mais realistas.
+Sistema para gerenciamento de solicitações de hóspedes em ambiente hoteleiro.
+
+* Controle de demandas operacionais
+* Organização de solicitações
+* Estrutura backend voltada para cenários reais
 
 ---
 
 ### Task Manager API
 
-Projeto backend com foco em:
+API de gerenciamento de tarefas desenvolvida como desafio técnico.
 
-* CRUD
-* Organização em camadas
-* Persistência de dados
-* Aplicação de boas práticas
+* Arquitetura em camadas
+* CRUD de tarefas
+* Boas práticas de desenvolvimento backend
+* Construção de API REST com ASP.NET Core
 
 ---
 
 ## Objetivos
 
-* Conquistar primeira oportunidade como desenvolvedor backend
+* Conquistar a primeira oportunidade como desenvolvedor backend
 * Evoluir em arquitetura de software
 * Construir sistemas escaláveis e bem estruturados
 
@@ -59,4 +63,6 @@ Projeto backend com foco em:
 
 ## Contato
 
-* LinkedIn: https://www.linkedin.com/in/seu-link
+* LinkedIn: www.linkedin.com/in/josé-aparecido-fernandes-junior-581081252
+
+
